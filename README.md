@@ -30,6 +30,7 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 - **[Sentry](src/sentry)** - Retrieving and analyzing issues from Sentry.io
 - **[Sequential Thinking](src/sequentialthinking)** - Dynamic and reflective problem-solving through thought sequences
 - **[Slack](src/slack)** - Channel management and messaging capabilities
+- **[Souto Costa](src/souto-costa)** - Consulta online de processos para clientes
 - **[Sqlite](src/sqlite)** - Database interaction and business intelligence capabilities
 - **[Time](src/time)** - Time and timezone conversion capabilities
 
