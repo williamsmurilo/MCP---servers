@@ -1,0 +1,27 @@
+{
+  "name": "@modelcontextprotocol/server-souto-costa",
+  "version": "0.1.0",
+  "description": "Servidor simples para consulta de processos do escritório Souto Costa",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "souto-costa-server": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && shx chmod +x dist/*.js",
+    "prepare": "npm run build",
+    "watch": "tsc --watch"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22",
+    "shx": "^0.3.4",
+    "typescript": "^5.6.2"
+  }
+}

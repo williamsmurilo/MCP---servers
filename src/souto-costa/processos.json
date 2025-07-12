@@ -1,0 +1,5 @@
+[
+  {"id": 1, "cliente": "Jo\u00e3o Silva", "descricao": "A\u00e7\u00e3o trabalhista", "status": "Em andamento"},
+  {"id": 2, "cliente": "Maria Souza", "descricao": "Processo civil", "status": "Conclu\u00eddo"},
+  {"id": 3, "cliente": "Pedro Santos", "descricao": "Revis\u00e3o de contrato", "status": "Aguardando audi\u00eancia"}
+]
